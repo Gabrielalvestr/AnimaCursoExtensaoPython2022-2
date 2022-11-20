@@ -29,6 +29,7 @@ print("qual o seu email: "+email)
 
 #Quando quiser exibir "Meu nome é ... e tenho ... anos.." trocando pelas variaveis nome e idade 
 print("Meu nome é {} e tenho {} anos".format(nome,idade))
+print("Meu nome é {} e tenho {} anos".format(nome,idade))
 
 '''
 Comentario em bloco
