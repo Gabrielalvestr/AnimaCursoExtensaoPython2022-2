@@ -9,4 +9,5 @@ elif (nota >= 6 and nota < 10):
 else: # é sempre automaticamente o que as duas condições não tratamento
   print("Burro, não tirou dez...")
   print("Burro, não tirou dez...")
+print("Burro, não tirou dez...")
 #teste 
